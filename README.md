@@ -1,6 +1,10 @@
 # youtube_no_ads
 A viewer for watching youtube with no ads
 
+## Link:
+[Online website](https://asdfish.github.io/youtube_no_ads/)
+[Offline release](https://github.com/asdfish/youtube_no_ads/releases/download/v1.0/youtube_viewer.zip)
+
 ## How does this work?:
 For some reason, youtube videos can be watched using: \
 *&nbsp;&nbsp;&nbsp;&nbsp;youtube.com/embed/video_id* \
