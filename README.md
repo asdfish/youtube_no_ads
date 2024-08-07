@@ -1,7 +1,7 @@
 # youtube_no_ads
 A viewer for watching youtube with no ads
 
-## Link:
+## Links:
 [Online website](https://asdfish.github.io/youtube_no_ads/)
 [Offline release](https://github.com/asdfish/youtube_no_ads/releases/download/v1.0/youtube_viewer.zip)
 
