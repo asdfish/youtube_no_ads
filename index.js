@@ -21,7 +21,7 @@
           } else if(url.hostname.match("youtu.be")) {
             videoId = url.pathname.replace("/", "")
           }
-          iframeURL = "https://www.youtube-nocookie.com/embed/" + videoId
+          if(videoId) iframeURL = "https://www.youtube-nocookie.com/embed/" + videoId
         }
 
         if(iframeURL) {
